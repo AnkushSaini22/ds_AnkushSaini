@@ -1,0 +1,11 @@
+classification,is_profitable,Size USD,Trade ID,Closed PnL
+Extreme Fear,False,7385.23,9082,20.1
+Extreme Fear,True,3848.97,12318,45.18
+Extreme Greed,False,2910.02,30178,34.02
+Extreme Greed,True,3734.12,9814,172.06
+Fear,False,6006.2,23791,36.25
+Fear,True,8947.89,38046,65.57
+Greed,False,2965.72,30828,5.04
+Greed,True,10123.51,19475,102.43
+Neutral,False,3702.1,17993,7.99
+Neutral,True,5770.08,19693,58.35
