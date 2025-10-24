@@ -1,8 +1,0 @@
-,total_pnl,total_pnl,total_pnl,total_volume,avg_position,active_traders
-,mean,median,std,mean,mean,mean
-classification,,,,,,
-Extreme Fear,52793.59,22561.74,101262.39,8177447.25,4091.8,11.43
-Extreme Greed,23817.29,3127.54,72827.3,1091799.69,4410.52,4.61
-Fear,36891.82,1412.31,96611.85,5311261.43,6524.29,6.92
-Greed,11140.57,678.48,62427.96,1495246.09,6735.3,3.36
-Neutral,19297.32,1818.57,37995.21,2690180.05,7157.53,5.61
